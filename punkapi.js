@@ -1,5 +1,3 @@
-import base64 from "base-64"
-
 const rootEndPoint = "https://api.punkapi.com/v2"
 
 const headers = {
