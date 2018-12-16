@@ -1,0 +1,4 @@
+#Sun Dec 16 14:53:59 CET 2018
+base.0=/home/vemassa/Mobile/FOCUSGROUP/PutainDeBiere/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
