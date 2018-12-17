@@ -24,3 +24,8 @@ https://facebook.github.io/react-native/docs/tutorial
 
 Application originale :
 https://putaindecode.io/fr/articles/js/react/native/introduction/
+
+En cas de problème avec "ENOSPC: System limit for number of file watchers reached" utilisez:
+
+    echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+
