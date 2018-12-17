@@ -16,3 +16,11 @@ L'API utilisée étant maintenant basée sur l'authentification par IP, nous avo
 1. Télécharger l'application **Expo** sur n'importe quel store
 
 2. Scanner le QR Code dans votre terminal avec l'application
+
+## Learn React Native
+
+Documentation officielle :
+https://facebook.github.io/react-native/docs/tutorial
+
+Application originale :
+https://putaindecode.io/fr/articles/js/react/native/introduction/
